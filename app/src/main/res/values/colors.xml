@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_operator">#FE9E0A</color>
+    <color name="color_operator_pressed">#FFC264</color>
+    <color name="color_sp_operator">#A4A4A4</color>
+    <color name="color_sp_operator_pressed">#6E6E6E</color>
+    <color name="color_number">#333333</color>
+    <color name="color_number_pressed">#5E5656</color>
+</resources>
